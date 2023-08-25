@@ -1,0 +1,51 @@
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.deps.json
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\refint\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\ref\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.deps.json
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\refint\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\ref\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.deps.json
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\refint\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.DataAccess\obj\Debug\net6.0\ref\WS.DataAccess.dll

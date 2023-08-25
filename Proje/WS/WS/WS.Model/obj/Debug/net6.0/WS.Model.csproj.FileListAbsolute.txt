@@ -1,0 +1,45 @@
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.deps.json
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\refint\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Model\obj\Debug\net6.0\ref\WS.Model.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.deps.json
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\refint\WS.Model.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Model\obj\Debug\net6.0\ref\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.deps.json
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\refint\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Model\obj\Debug\net6.0\ref\WS.Model.dll

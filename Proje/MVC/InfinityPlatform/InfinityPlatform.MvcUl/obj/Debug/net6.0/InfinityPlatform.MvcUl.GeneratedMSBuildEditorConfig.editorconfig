@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InfinityPlatform.MvcUl
+build_property.RootNamespace = InfinityPlatform.MvcUl
+build_property.ProjectDir = C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\MVC\InfinityPlatform\InfinityPlatform.MvcUl\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\MVC\InfinityPlatform\InfinityPlatform.MvcUl
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Auth/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xBdXRoXExvZ0luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xDbGllbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Departman/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xEZXBhcnRtYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xFbXBsb3llZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Expense/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xFeHBlbnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xQYXltZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xQcm9kdWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xQcm9qZWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Shared/Components/SideBar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xTaWRlQmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGFyZWRcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Shared/_NavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGFyZWRcX05hdkJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Areas/AdminPanel/Views/Supplier/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTdXBwbGllclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/Yeni klasör (3)/Yeni klasör/KENDİ PROJEM/Proje/MVC/InfinityPlatform/InfinityPlatform.MvcUl/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wku5qnmcb1

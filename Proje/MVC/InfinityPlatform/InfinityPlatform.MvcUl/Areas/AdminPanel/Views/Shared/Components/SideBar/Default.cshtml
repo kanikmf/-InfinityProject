@@ -1,0 +1,113 @@
+﻿@using InfinityPlatform.MvcUl.Areas.AdminPanel.Models.ApiTypes;
+
+@model AdminPanelUserItem
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="index3.html" class="brand-link">
+        <img src="~/adminPanel/dist/img/InfinityLogo.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+        <span class="brand-text font-weight-light">InfiniTy Platform</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <!-- Sidebar user panel (optional) -->
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+            <div class="image">
+                <img src="~/adminPanel/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+            </div>
+            <div class="info">
+                <a href="http://localhost:5169/AdminPanel/Home/Index" class="d-block">
+                    @Model.FullName
+                </a>
+            </div>
+        </div>
+
+        <!-- SidebarSearch Form -->
+        <div class="form-inline">
+            <div class="input-group" data-widget="sidebar-search">
+                <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+                <div class="input-group-append">
+                    <button class="btn btn-sidebar">
+                        <i class="fas fa-search fa-fw"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sidebar Menu -->
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+                <li class="nav-header">YONETICI MENU</li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-book"></i>
+                        <p>
+                            İçerik Yönetimi
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Client/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Müşteriler</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Departman/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Departmanlar</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Employee/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Çalışanlar</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Expense/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Giderler</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Order/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Siparişler</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Payment/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Ödemeler</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Product/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Ürünler</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Project/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Projeler</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/AdminPanel/Supplier/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Tedarikçiler</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+</aside>

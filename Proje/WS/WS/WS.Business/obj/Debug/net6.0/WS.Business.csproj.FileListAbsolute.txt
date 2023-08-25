@@ -1,0 +1,57 @@
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.deps.json
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\refint\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\Proje\WS\WS\WS.Business\obj\Debug\net6.0\ref\WS.Business.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.deps.json
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\refint\WS.Business.dll
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.pdb
+C:\Users\lenovo\Desktop\Proje\WS\WS\WS.Business\obj\Debug\net6.0\ref\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.deps.json
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Business.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.DataAccess.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Model.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.DataAccess.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\WS.Model.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\refint\WS.Business.dll
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\WS.Business.pdb
+C:\Users\lenovo\Desktop\Yeni klasör (3)\Yeni klasör\KENDİ PROJEM\Proje\WS\WS\WS.Business\obj\Debug\net6.0\ref\WS.Business.dll
